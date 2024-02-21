@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bouncing-ball_0
+      Hash: f4ae3e752c6760541ce6c9f727a4fae7
+      CRC: 4210578216
+      Dependencies: {}
